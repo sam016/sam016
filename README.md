@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sam016
 - 👀 I’m interested in building awesome products.
 - 🌱 I’m currently learning GraphQL, Golang and Blockchain.
-- 💞️ I’m looking to collaborate on Golang, Nodejs or Arduino projects
+- 💞️ I’m looking to collaborate on Golang, Nodejs or iOT projects
 - 📫 How to reach me ... create an issue in any open repo :) 
 
 <!---
